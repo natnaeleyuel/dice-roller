@@ -1,0 +1,68 @@
+body{
+    background-color: hsla(0, 4%, 5%, 0.9);
+    text-align: center;
+}
+h1{
+    color: hsla(0, 42%, 86%, 0.9);
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.3em;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-transform: uppercase; 
+}
+#div1{
+    background-color: hsl(208, 83%, 88%);
+    border: none;
+    border-radius: 20px;
+    font-family:'Segoe UI', Verdana, sans-serif;
+    font-weight: bold;
+    margin: auto;
+    padding: 5pc 7pc;
+    width: 30pc;
+}
+#inputLabel{
+    color: hsla(0, 4%, 5%);
+    font-family:'Segoe UI', Verdana, sans-serif;
+    font-size: 2.2em;
+    margin-right: 15px;
+}
+#numDice{
+    background-color: hsla(0, 4%, 5%, 0.9);
+    border-radius: 6px;
+    border: none;
+    color: aliceblue;
+    font-family:Verdana, sans-serif;
+    font-size: 1.4em;
+    padding: 5px;
+    text-align: center;
+    width: 10pc;
+}
+#diceBtn{
+    background-color: hsla(0, 100%, 57%, 0.901);
+    border-radius: 30px;
+    color: hsla(0, 0%, 100%, 0.9);
+    font-size: 1.4em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 2pc;
+    margin-left: 18pc;
+    
+    padding: 8px 15px;
+}
+#div2{
+    background-color: hsl(0, 0%, 100%);
+    margin-top: 60px;
+    padding: 0pc;
+}
+#result{
+    font-family: Verdana, sans-serif;
+    font-size: 1.6em;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding-top: 35px;
+}
+img{
+    width: 8pc;
+    margin-bottom: 6px;
+}
